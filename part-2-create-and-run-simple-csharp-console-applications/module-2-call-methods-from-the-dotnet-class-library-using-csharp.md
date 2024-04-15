@@ -138,7 +138,7 @@ In the next unit, you'll examine how to pass input values to a method, and how a
 
 While some methods can be called the same way that you called `Console.WriteLine()`, there are other methods in the .NET Class Library that require a different approach.
 
-### Stateful versus stateless methods
+### **Stateful versus stateless methods**
 
 In software development, the term **state** refers to the condition of the execution environment at a specific moment in time. As your code executes line by line, values are stored in variables. At any moment during execution, the current state of the application is the collection of all values stored in memory.
 
